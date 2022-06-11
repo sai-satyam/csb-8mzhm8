@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://sai-satyam.github.io/csb-8mzhm8/static/css/main.0f073ff1.chunk.css",
-    "main.js": "https://sai-satyam.github.io/csb-8mzhm8/static/js/main.a19a47fe.chunk.js",
-    "main.js.map": "https://sai-satyam.github.io/csb-8mzhm8/static/js/main.a19a47fe.chunk.js.map",
-    "runtime-main.js": "https://sai-satyam.github.io/csb-8mzhm8/static/js/runtime-main.3c340157.js",
-    "runtime-main.js.map": "https://sai-satyam.github.io/csb-8mzhm8/static/js/runtime-main.3c340157.js.map",
-    "static/js/2.bd2118d1.chunk.js": "https://sai-satyam.github.io/csb-8mzhm8/static/js/2.bd2118d1.chunk.js",
-    "static/js/2.bd2118d1.chunk.js.map": "https://sai-satyam.github.io/csb-8mzhm8/static/js/2.bd2118d1.chunk.js.map",
+    "main.js": "https://sai-satyam.github.io/csb-8mzhm8/static/js/main.7cedcd20.chunk.js",
+    "main.js.map": "https://sai-satyam.github.io/csb-8mzhm8/static/js/main.7cedcd20.chunk.js.map",
+    "runtime-main.js": "https://sai-satyam.github.io/csb-8mzhm8/static/js/runtime-main.5e326050.js",
+    "runtime-main.js.map": "https://sai-satyam.github.io/csb-8mzhm8/static/js/runtime-main.5e326050.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://sai-satyam.github.io/csb-8mzhm8/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://sai-satyam.github.io/csb-8mzhm8/static/js/2.d96fa6f0.chunk.js.map",
     "index.html": "https://sai-satyam.github.io/csb-8mzhm8/index.html",
     "static/css/main.0f073ff1.chunk.css.map": "https://sai-satyam.github.io/csb-8mzhm8/static/css/main.0f073ff1.chunk.css.map",
-    "static/js/2.bd2118d1.chunk.js.LICENSE.txt": "https://sai-satyam.github.io/csb-8mzhm8/static/js/2.bd2118d1.chunk.js.LICENSE.txt"
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://sai-satyam.github.io/csb-8mzhm8/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c340157.js",
-    "static/js/2.bd2118d1.chunk.js",
+    "static/js/runtime-main.5e326050.js",
+    "static/js/2.d96fa6f0.chunk.js",
     "static/css/main.0f073ff1.chunk.css",
-    "static/js/main.a19a47fe.chunk.js"
+    "static/js/main.7cedcd20.chunk.js"
   ]
 }
